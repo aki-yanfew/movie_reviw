@@ -52,7 +52,7 @@
 }
 
 input, select, textarea {
-    width: 45%;
+    width: 100%;
     padding: .4rem;
     margin-bottom: .8rem;
     background: #111;
